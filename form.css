@@ -14,11 +14,11 @@ body{
     width: 20%;
 }
 fieldset{
-    border: 3px solid linear-gradient(to right,rgb(0, 0, 0), rgb(211, 159, 14));
+    border: 3px solid linear-gradient(-45deg, #33312e, #474545, #b1b1b1);;
     border-radius: 5px;
 }
 legend{
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
     padding: 10px;
     text-align: center;
     background-color: rgb(0, 0, 0);
@@ -58,7 +58,7 @@ legend{
     font-size: 15px;
 }
 #submit{
-    background-image: linear-gradient(to right,rgb(0, 0, 0), rgb(211, 159, 14));
+    background-image: linear-gradient(to right,rgb(0, 92, 197), rgb(90, 20, 220));
     width: 100%;
     border: none;
     padding: 15px;

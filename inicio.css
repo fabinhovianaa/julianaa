@@ -40,6 +40,38 @@ body {
     text-decoration: none; 
     color: inherit;
 }
+.pecas{
+    position: absolute;
+    top: 10%; 
+    left: 85%; 
+    transform: translate(-50%, -50%); 
+    color: white; 
+    font-size: 30px; 
+    z-index: 10; 
+}
+.pecas li{
+    list-style: none;
+}
+.pecas a{
+    text-decoration: none; 
+    color: inherit;
+}
+.modelo{
+    position: absolute;
+    top: 10%; 
+    left: 85%; 
+    transform: translate(-50%, -50%); 
+    color: white; 
+    font-size: 30px; 
+    z-index: 10; 
+}
+.modelo li{
+    list-style: none;
+}
+.modelo a{
+    text-decoration: none; 
+    color: inherit;
+}
 
 hr{
     
