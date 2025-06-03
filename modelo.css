@@ -1,3 +1,11 @@
+body{
+	background-color: #e6e6e6;
+}
+.logoc img {
+    width: 6%;
+    margin-left: 47.1%;
+    margin-top: 0;
+}
 .carros {
 	width: 1200px;
 	margin: 0 auto;
@@ -16,11 +24,12 @@
 	text-align: center;
 	width: 24%;
 	vertical-align: top;
-	margin: 0;
-	padding: 20px 20px;
+	margin-left: 9px;
+	padding: 40px 20px;
 	box-sizing: border-box;
 	border: 1px solid #000000;
 	border-radius: 1.5%;
+	background-color: white;
 }
 
 .carros li:hover {
