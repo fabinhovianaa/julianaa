@@ -1,4 +1,51 @@
+.carros {
+	width: 1200px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+.carros img{
 
-frame {
-    border: 1px solid black; 
-  }
+  width: 100%;
+}
+.fontegrossa{
+  font-weight: bolder;
+}
+
+.carros li {
+	display: inline-block;
+	text-align: center;
+	width: 24%;
+	vertical-align: top;
+	margin: 0;
+	padding: 20px 20px;
+	box-sizing: border-box;
+	border: 1px solid #000000;
+	border-radius: 1.5%;
+}
+
+.carros li:hover {
+	border-color: #C78C19;
+}
+
+.carros li:active {
+	border-color: #088C19;	
+}
+
+.carros li:hover h2 {
+	font-size: 34px;
+}
+
+.carros h2 {
+	font-size: 35.6px;
+	font-weight: bold;
+}
+
+.carros-descricao {
+	font-size: 18px;
+}
+
+.carros-preco {
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+}
