@@ -11,6 +11,39 @@ body{
 	margin: 0 auto;
 	padding: 10px 0;
 }
+.parachoque{
+	
+	width: 104%;
+	vertical-align: top;
+	margin-left: 0px;
+	padding: 34.1px 20px;
+	box-sizing: border-box;
+	border: 1px solid #ffffff;
+	border-radius: 1.5%;
+	background-color: white;
+}
+
+.motor{
+	vertical-align: top;
+	margin-left: 9px;
+	padding: 23px 20px;
+	box-sizing: border-box;
+	border: 1px solid #ffffff;
+	border-radius: 1.5%;
+	background-color: white;
+}
+.pneu {
+	
+	
+	width: 100%;
+	vertical-align: top;
+	margin-left: 9px;
+	padding: 27.1px 20px;
+	box-sizing: border-box;
+	border: 1px solid #ffffff;
+	border-radius: 1.5%;
+	background-color: white;
+}
 .carros img{
 
   width: 50%;
@@ -32,40 +65,6 @@ body{
 	box-sizing: border-box;
 	border: 1px solid #000000;
 	border-radius: 1.5%;
-	background-color: white;
-}
-.motorp {
-	display: inline-block;
-	text-align: center;
-	width: 24%;
-	vertical-align: top;
-	margin-left: -65px;
-	padding: 20px 20px;
-	box-sizing: border-box;
-	border: 1px solid #ffffff;
-	border-radius: 1.5%;
-	background-color: white;
-}
-.farol {
-	
-	text-align: center;
-	width: 24%;
-	vertical-align: top;
-	margin-left: 60px;
-	padding: 36.1px 20px;
-	background-color: rgb(255, 255, 255);
-	
-}
-
-.parachoque {
-	display: inline-block;
-	text-align: center;
-	width: 24%;
-	vertical-align: top;
-	margin-left: -110px;
-	padding: 44px 20px;
-	
-	
 	background-color: white;
 }
 
