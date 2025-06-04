@@ -47,16 +47,14 @@ body{
 	background-color: white;
 }
 .farol {
-	display: inline-block;
+	
 	text-align: center;
 	width: 24%;
 	vertical-align: top;
-	margin-left: 9px;
-	padding: 99	px 20px;
-	box-sizing: border-box;
-	border: 1px solid #ffffff;
-	border-radius: 1.5%;
+	margin-left: 60px;
+	padding: 36.1px 20px;
 	background-color: rgb(255, 255, 255);
+	
 }
 
 .parachoque {
@@ -64,11 +62,10 @@ body{
 	text-align: center;
 	width: 24%;
 	vertical-align: top;
-	margin-left: 9px;
-	padding: 20px 20px;
-	box-sizing: border-box;
-	border: 1px solid #000000;
-	border-radius: 1.5%;
+	margin-left: -110px;
+	padding: 44px 20px;
+	
+	
 	background-color: white;
 }
 
