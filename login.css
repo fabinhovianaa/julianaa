@@ -54,7 +54,19 @@ body{
 #btn{
     margin-top: 10%;
     width: 100%;
-    text-align: center;
+    text-align: center;    
+    color: white;
+    transform: translate(-0%, -0%); 
+    font-size: 18px; 
+    z-index: 10; 
+    
+}
+#btn li {
+    list-style: none;
+}
+#btn a {
+    text-decoration: none; 
+    color: inherit;
 }
 #btn button{
     font-family: 'Poppins', sans-serif;
